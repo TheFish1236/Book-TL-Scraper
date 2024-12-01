@@ -1,4 +1,7 @@
 # Book-TL-Scraper
-This project only functions on chapters of the book at the following link: "https://www.deqixs.com/xiaoshuo/11/"
+This project is designed to scrape chapters from a specific book at the following link: [https://www.deqixs.com/xiaoshuo/11/]. To use this program, the inputted link must be a link of a specifc chapter, eg. "https://www.deqixs.com/xiaoshuo/11/7837.html".
 
-The intention of this project is to pull the original contents of a book to be translated by various tools. With greater resources, a future version of this project using a local AI or API key for cloud-based AI is possible; such a version would speed up the process drastically, automating not just the content collection aspect of the process, but the translation aspect as well.
+The current functionality allows you to save the contents of a chapter and all after it, which can then be translated using various tools. 
+
+## Future Plans
+With additional resources, future versions of this project could leverage local AI models or cloud-based AI APIs to automate both the content collection and translation process. This would significantly speed up the translation workflow and improve the overall user experience.
