@@ -1,4 +1,6 @@
 # Book-TL-Scraper
+This project is no longer being updated. The book has been fully translated and no longer requires MTL.
+
 This project is designed to scrape chapters from a specific book at the following link: "https://www.deqixs.com/xiaoshuo/11/". To use this program, the inputted link must be a link of a specifc chapter, eg. "https://www.deqixs.com/xiaoshuo/11/7837.html".
 
 The current functionality allows you to save the contents of a chapter and all after it, which can then be translated using various tools. 
